@@ -1,11 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Aryan%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-<p align="center">
-  <a href="https://raw.githubusercontent.com/aryanyadav0950/aryanyadav0950/main/Aryan_resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Aryan%20Yadav&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h2 align="center">🚀 Python Developer | Web Dev | AI Enthusiast</h2>
@@ -14,58 +9,65 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+Real-World+Projects;AI+%2B+Web+Development;Problem+Solver;Always+Learning" />
 </p>
 
+<!-- RESUME BUTTON -->
+<p align="center">
+  <a href="https://raw.githubusercontent.com/aryanyadav0950/aryanyadav0950/main/Aryan_Yadav_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 About Me
 - 🎓 B.Tech CSE @ ABES Engineering College  
-- 💻 Focused on **AI + Web Development**  
-- 🚀 Built **7+ real-world projects**  
-- ⚡ Strong interest in solving practical problems  
+- 💻 Focused on AI + Web Development  
+- 🚀 Built real-world projects with practical impact  
+- ⚡ Strong interest in solving real problems  
 
 ---
 
-# 🔥 Featured Projects
+# 🔥 Featured Work
 
-### 💡 ArthSaathi (Flagship)
+## 💡 ArthSaathi (Flagship)
 ![AI](https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Backend-green?style=for-the-badge)
 
-- AI-powered financial assistant dashboard  
-- Budgeting, expense tracking & smart decision guidance  
-- 🔗 https://github.com/aryanyadav0950/Arthsaathi  
+> AI-based financial assistant for smarter decision-making
 
----
+- Budgeting + expense tracking + insights  
+- Designed for real-world financial clarity  
 
-### 🚆 RailYatra (🏆 Winner – IIT Jammu)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Optimized-purple?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/Frontend-JS-orange?style=for-the-badge)
-
-- Redesigned railway booking system  
-- Improved user flow & accessibility  
-- 🏆 Winner at ANHAD’26  
-- 🔗 https://github.com/aryanyadav0950/RailYatra  
+🔗 https://github.com/aryanyadav0950/Arthsaathi  
 
 ---
 
-### ⚙️ Other Projects
+## 🚆 RailYatra (🏆 Winner – IIT Jammu)
+![Winner](https://img.shields.io/badge/Winner-IIT%20Jammu-gold?style=for-the-badge)
 
-| Project | Description |
-|--------|------------|
-| 💰 [Expense Tracker](https://github.com/aryanyadav0950/Expense-Tracker) | CSV-based expense management |
-| ⌨️ [Typing Speed Test](https://github.com/aryanyadav0950/Typing-Test) | Real-time WPM + accuracy |
-| 📝 [Notes Organizer](https://github.com/aryanyadav0950/Notes-Organizer) | File-based note system |
+> Redesigned railway booking experience
+
+- Improved UI/UX and booking flow  
+- Accessibility-focused redesign  
+
+🔗 https://github.com/aryanyadav0950/RailYatra  
 
 ---
 
-## 🧪 Early Learning
+## ⚙️ More Projects
+- 💰 Expense Tracker → https://github.com/aryanyadav0950/Expense-Tracker  
+- ⌨️ Typing Test → https://github.com/aryanyadav0950/Typing-Test  
+- 📝 Notes Organizer → https://github.com/aryanyadav0950/Notes-Organizer  
+
+---
+
+## 🧪 Early Project
 - 🏥 Hospital Management System  
-  *(Built in Class 11 – learned Python + MySQL integration)*  
+  *(Built in Class 11 – learning phase project)*  
 
 ---
 
 # ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,sql,git,github" />
 </p>
 
 ---
@@ -73,26 +75,18 @@
 # 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanyadav0950&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanyadav0950&theme=tokyonight" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 <p align="center">
   <a href="https://linkedin.com/in/aryan-yadav-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:aryanyadav0950@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
 ## ⚡ Focus
-> Building impactful, scalable solutions — not just projects 🚀
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer"/>
-</p>
+> Building real-world impactful solutions 🚀
