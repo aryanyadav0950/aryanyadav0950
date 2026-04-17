@@ -67,11 +67,17 @@
 
 ---
 
-## 🧪 Early Learning
-- 🏥 Hospital Management System  
-  *(Built in Class 11 – learned Python + MySQL integration)*  
+## 🧪 Where It All Started
 
----
+### 🏥 Hospital Management System
+
+> Every developer has a first project — this was mine.
+
+- Developed in Class 11 to understand how real systems manage data  
+- Implemented patient records and billing using Python + MySQL  
+- Learned core backend logic and database interaction  
+
+🚀 *This project laid the foundation for everything I build today.*
 
 # ⚙️ Tech Stack
 <p align="center">
