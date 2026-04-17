@@ -1,25 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aryan Yadav</h1>
-<h3 align="center">🚀 B.Tech CSE Student | Python | Web Dev | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/aryanyadav0950">
-    <img src="https://komarev.com/ghpvc/?username=aryanyadav0950&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=3B82F6&center=true&vCenter=true&width=500&lines=Python+Developer;Web+Developer;AI+Enthusiast;Building+Real-World+Projects" />
 </p>
 
 ---
 
 ## 🧠 About Me
 - 🎓 B.Tech CSE @ ABES Engineering College  
-- 💻 Passionate about **AI, Web Development & Real-World Problem Solving**  
-- 🚀 Built 7+ projects focused on usability & impact  
-- 🧩 Love turning ideas into scalable applications  
+- 💻 Focused on **AI + Web Development + Problem Solving**  
+- 🚀 Built multiple real-world projects with practical impact  
+- ⚡ Constantly improving through hands-on development  
 
 ---
 
 ## 🔥 Featured Projects
 
-### 💡 ArthSaathi (Flagship)
+### 💡 ArthSaathi (Flagship Project)
 - AI-powered financial assistant dashboard  
 - Budgeting, expense tracking & decision guidance  
 - 🔗 https://github.com/aryanyadav0950/Arthsaathi  
@@ -33,10 +30,16 @@
 
 ---
 
-### 🏥 Hospital Management System
-- Python + MySQL based system  
-- Handles patient records & billing  
-- 🔗 https://github.com/aryanyadav0950/Hospital-Management-System  
+### ⚙️ Other Projects
+- 💰 [Expense Tracker](https://github.com/aryanyadav0950/Expense-Tracker)  
+- ⌨️ [Typing Speed Test](https://github.com/aryanyadav0950/Typing-Test)  
+- 📝 [Notes Organizer](https://github.com/aryanyadav0950/Notes-Organizer)  
+
+---
+
+## 🧪 Early Learning Project
+- 🏥 Hospital Management System (Python + MySQL)  
+  *(Built during Class 11 to learn database integration and basic backend logic)*  
 
 ---
 
@@ -55,13 +58,6 @@
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanyadav0950&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p>
   <a href="https://linkedin.com/in/aryan-yadav-dev">LinkedIn</a> |
@@ -70,5 +66,5 @@
 
 ---
 
-## ⚡ Fun Fact
-> I build projects that solve real-world problems, not just for submissions 🚀
+## ⚡ Focus
+> Building impactful projects that solve real-world problems 🚀
