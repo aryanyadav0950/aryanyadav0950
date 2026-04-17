@@ -69,15 +69,21 @@
 
 ## 🧪 Where It All Started
 
-### 🏥 Hospital Management System
+### 🏥 Hospital Management System (My First Project)
 
 > Every developer has a first project — this was mine.
 
-- Developed in Class 11 to understand how real systems manage data  
-- Implemented patient records and billing using Python + MySQL  
-- Learned core backend logic and database interaction  
+- Built during **Class 11** as my first real coding project  
+- Implemented basic **patient record management and billing system**  
+- Learned fundamentals of **Python, MySQL, and CRUD operations**  
 
-🚀 *This project laid the foundation for everything I build today.*
+🚀 *This project may be simple, but it laid the foundation for everything I build today.*
+
+<p>
+  <a href="https://github.com/aryanyadav0950/Hospital-Management-System">
+    <img src="https://img.shields.io/badge/View-Code-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 # ⚙️ Tech Stack
 <p align="center">
