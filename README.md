@@ -41,7 +41,7 @@
 ---
 
 ## 🚆 RailYatra (🏆 Winner – IIT Jammu)
-![Winner](https://img.shields.io/badge/IIT%20Jammu-Winner-0f172a?style=for-the-badge&logo=trophy&logoColor=FFD700)
+![Winner](https://img.shields.io/badge/IIT%20Jammu-Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=000000)
 
 > Redesigned railway booking experience
 
