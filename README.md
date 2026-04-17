@@ -19,28 +19,43 @@
 
 ---
 
-# 🔥 Featured Projects
+# 🔥 Featured Work
 
-### 💡 ArthSaathi (Flagship)
+## 💡 ArthSaathi (Flagship)
 ![AI](https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Backend-green?style=for-the-badge)
 
-- AI-powered financial assistant dashboard  
-- Budgeting, expense tracking & smart decision guidance  
-- 🔗 https://github.com/aryanyadav0950/Arthsaathi  
+> AI-based financial assistant for smarter decision-making
 
----
+- Budgeting + expense tracking + insights  
+- Designed for real-world financial clarity  
 
-### 🚆 RailYatra (🏆 Winner – IIT Jammu)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Optimized-purple?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/Frontend-JS-orange?style=for-the-badge)
-
-- Redesigned railway booking system  
-- Improved user flow & accessibility  
-- 🏆 Winner at ANHAD’26  
-- 🔗 https://github.com/aryanyadav0950/RailYatra  
+<p>
+  <a href="https://arthsaathibyspg.netlify.app">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge">
+  </a>
+  <a href="https://github.com/aryanyadav0950/Arthsaathi">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
+
+## 🚆 RailYatra (🏆 Winner – IIT Jammu)
+![Winner](https://img.shields.io/badge/Winner-IIT%20Jammu-gold?style=for-the-badge)
+
+> Redesigned railway booking experience
+
+- Improved UI/UX and booking flow  
+- Accessibility-focused redesign  
+
+<p>
+  <a href="https://railyatrabyspg.vercel.app">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge">
+  </a>
+  <a href="https://github.com/aryanyadav0950/RailYatra">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ### ⚙️ Other Projects
 
