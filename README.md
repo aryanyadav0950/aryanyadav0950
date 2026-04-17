@@ -81,7 +81,7 @@
 
 <p>
   <a href="https://github.com/aryanyadav0950/Hospital-Management-System">
-    <img src="https://img.shields.io/badge/View-Code-GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
