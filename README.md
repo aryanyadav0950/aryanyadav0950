@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Aryan%20Yadav&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">🚀 Python Developer | Web Dev | AI Enthusiast</h2>
+<h2 align="center">Python Developer | Web Dev | AI Enthusiast</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+Real-World+Projects;AI+%2B+Web+Development;Problem+Solver;Always+Learning" />
