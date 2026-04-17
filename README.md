@@ -4,7 +4,7 @@
 </p>
 <!-- RESUME BUTTON -->
 <p align="center">
-  <a href="https://raw.githubusercontent.com/aryanyadav0950/aryanyadav0950/main/Aryan_Yadav_Resume.pdf">
+  <a href="https://raw.githubusercontent.com/aryanyadav0950/aryanyadav0950/main/Aryan_resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
