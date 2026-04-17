@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Live-Demo-10b981?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://github.com/aryanyadav0950/Arthsaathi">
-    <img src="https://img.shields.io/badge/Code-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Code-GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Live-Demo-10b981?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://github.com/aryanyadav0950/RailYatra">
-    <img src="https://img.shields.io/badge/Code-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Code-GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -83,7 +83,7 @@
 
 <p>
   <a href="https://github.com/aryanyadav0950/Hospital-Management-System">
-    <img src="https://img.shields.io/badge/Code-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Code-GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
