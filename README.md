@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Aryan%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/aryanyadav0950/aryanyadav0950/main/Aryan_Yadav_Resume.pdf">
+  <a href="https://raw.githubusercontent.com/aryanyadav0950/aryanyadav0950/main/Aryan_resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
