@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Aryan%20Yadav&fontSize=40&fontColor=ffffff" />
 </p>
 <!-- RESUME BUTTON -->
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/aryanyadav0950/aryanyadav0950/blob/main/Aryan_resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-3b82f6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
